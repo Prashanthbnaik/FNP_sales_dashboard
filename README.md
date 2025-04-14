@@ -48,6 +48,7 @@ This project analyzes sales data from FNP (Ferns N Petals), a leading gifting an
 ---
 
 ## Contact  
-[LinkedIn - https://www.linkedin.com/in/prashanthbnaik 
+[LinkedIn - www.linkedin.com/in/prashanthnaik7
+
 Aspiring Data Analyst | Excel, SQL | IBM Certification(in progress)
 
